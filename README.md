@@ -1,12 +1,13 @@
 # EAD
-Assignments and Practical of Enterprise Application Development
+Assignments and Lab works of Enterprise Application Development
 
 ### Assignments
 
 | No. | Assignment | 
-| ------ | ------ |
-| 1. |  [Student Management System] | 
-[Student Management System]: https://github.com/Uzzal644/EAD-all/tree/master/ASSIGNMENTS/Assignment-1 
+| --- | ------     |
+| 1.  |  [Student Management System] | 
+
+[Student Management System]: https://github.com/Uzzal644/EAD-all/tree/master/ASSIGNMENTS/Assignment-1
 
 
 
